@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 //version of solidity
 
-contract DIR_contract{
+contract FIR_contract{
 //name of the contract    
 
        address reporter;
